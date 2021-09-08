@@ -1,3 +1,4 @@
 OOPS concept
 INheritance 
 Polymorphism
+Encapsulation
